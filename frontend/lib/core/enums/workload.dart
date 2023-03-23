@@ -1,0 +1,1 @@
+enum Workload { TAKING_PROJECTS, FULL, BACKLOGGED }

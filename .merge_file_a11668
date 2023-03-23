@@ -1,0 +1,10 @@
+/**
+ * @author Markus Walter
+ */
+package de.fraunhofer.DigiTales2Go.startUp;
+
+public enum Workload {
+    TAKING(),
+    FULL(),
+    BACKLOGGED()
+}

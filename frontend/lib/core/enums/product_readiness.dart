@@ -1,0 +1,1 @@
+enum ProductReadiness {THEORY, DEVELOPMENT, READY, COMMERCIAL, DATED}

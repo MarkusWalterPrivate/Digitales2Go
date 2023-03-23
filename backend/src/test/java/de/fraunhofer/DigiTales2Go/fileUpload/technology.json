@@ -1,0 +1,52 @@
+{
+    "coreField": {
+		"intern": true,
+		"source": "Interne Quelle 1",
+        "imageSource": ["Not available yet"],
+        "headline": "Sail",
+        "teaser": "Discover new Lands through green energy",
+        "industry": "ALTERNATEENERGY",
+        "tags": [
+            "New",
+            "Hot"
+        ],
+        "type": "TECHNOLOGY"
+    },
+    "detailedRating": {
+        "degreeOfInnovation": 1.0,
+        "disruptionPotential": 1.0,
+        "useCases": 1.0
+    },
+    "techRequired": {
+        "description": "This is demo text",
+        "useCases": "sdasdasd",
+        "discussion": "asuhdiasbdias",
+        "projectsIAO": [
+            "asdasd",
+            "afasd"
+        ],
+        "readiness": "COMMERCIAL"
+    },
+    "techOptional": {
+        "contacts": [
+            {
+                "name": "Peter",
+                "email": "peter@parker.net",
+                "telephone": "180231270",
+                "organisation": "Avanger"
+            }
+        ],
+        "references": [],
+        "externalItems": [],
+        "industriesWithUse": [
+            "AEROSPACE",
+            "AUTOMOBILE",
+            "BEVERAGE"
+        ]
+    },
+    "internalProjects": [],
+    "internalTrends": [],
+    "internalTechnologies": [],
+    "internalCompanies": [],
+    "comments": []
+}

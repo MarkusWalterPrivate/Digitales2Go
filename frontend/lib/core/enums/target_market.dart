@@ -1,0 +1,1 @@
+enum TargetMarket{EU, US}

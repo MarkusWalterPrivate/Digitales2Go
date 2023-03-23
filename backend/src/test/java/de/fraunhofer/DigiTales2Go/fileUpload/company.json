@@ -1,0 +1,87 @@
+{
+    "coreField": {
+		"intern": true,
+		"source": "Interne Quelle 1",
+        "imageSource": ["Not available yet"],
+        "headline": "SuperShop",
+        "teaser": "Everything your ever need!",
+        "industry": "BEVERAGE",
+        "tags": [
+            "Tag1",
+            "Tag2"
+        ],
+        "type": "COMPANY"
+    },
+    "detailedRating": {
+        "degreeOfInnovation": 1.0,
+        "disruptionPotential": 1.0,
+        "useCases": 1.0
+    },
+    "companyRequired": {
+        "description": "This is demo text",
+        "useCases": "demo use",
+        "teamSize": {
+            "teamSize": "MEDIUM",
+            "year": 2021,
+            "reference": "ashbda"
+        },
+        "website": "google.com",
+        "foundationYear": 2000
+    },
+    "companyOptional": {
+        "externalItems": [],
+        "companyOptionalLists": {
+            "contacts": [
+                {
+                    "name": "Hans",
+                    "email": "hans@Wurst.der",
+                    "telephone": "+(049)123 45678789",
+                    "organisation": "Metzgerei Hans"
+                }
+            ],
+            "targetMarkets": [
+                "EU",
+                "NORTHAMERICA"
+            ],
+            "alignments": [
+                "B2B",
+                "B2G"
+            ],
+            "partners": [
+                "ARD",
+                "ZDF"
+            ],
+            "investors": [
+                "ABC",
+                "QWE"
+            ]
+        },
+        "companyOptionalFields": {
+            "location": {
+                "country": "Germany",
+                "city": "Stuttgart"
+            },
+            "productReadiness": "READY",
+            "numberOfCustomers": {
+                "value": "9999",
+                "year": 2021,
+                "reference": "Google"
+            },
+            "revenue": {
+                "value": "998989.00",
+                "year": 2020,
+                "reference": "Google"
+            },
+            "profit": {
+                "value": "998989.00",
+                "year": 2020,
+                "reference": "Google"
+            }
+        }
+    },
+    "internalProjects": [],
+    "internalTrends": [],
+    "internalTechnologies": [],
+    "internalCompanies": [],
+    "comments": []
+}

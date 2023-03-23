@@ -1,0 +1,59 @@
+{
+    "coreField": {
+		"intern": true,
+		"source": "Interne Quelle 1",
+        "imageSource": ["Not available yet"],
+        "headline": "DigiTales2Go",
+        "teaser": "Do incredible amount of work at almost zero cost by enslaving students",
+        "industry": "SOFTWARE",
+        "tags": [
+            "Tag1",
+            "Tag2"
+        ],
+        "type": "PROJECT"
+    },
+    "detailedRating": {
+        "degreeOfInnovation": 1.0,
+        "disruptionPotential": 1.0,
+        "useCases": 1.0
+    },
+    "projectRequired": {
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt utlabore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+        "readiness": "DEVELOPMENT",
+        "runtime": {
+            "start": 21321321,
+            "finished": 214523545456,
+            "useOnlyYear": true
+        },
+        "contacts": [
+            {
+                "name": "Hans",
+                "email": "hans@Wurst.der",
+                "telephone": "+(049)123 45678789",
+                "organisation": "Metzgerei Hans"
+            }
+        ]
+    },
+    "projectOptional": {
+        "externalItems": [],
+        "publications": [],
+        "projectRelations": {
+            "fundingSources": [],
+            "promoters": [],
+            "projectPartners": [],
+            "usePartners": []
+        },
+        "financing": {
+            "value": "1234",
+            "year": 1234,
+            "reference": "asdasdas"
+        },
+        "website": "https://rr.noordstar.me/1ab81afc"
+    },
+    "events": [],
+    "internalProjects": [],
+    "internalTrends": [],
+    "internalTechnologies": [],
+    "internalCompanies": [],
+    "comments": []
+}

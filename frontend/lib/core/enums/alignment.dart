@@ -1,0 +1,1 @@
+enum AlignmentBusiness {B2B, B2C}
