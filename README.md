@@ -1,17 +1,14 @@
 # Digitales2Go
 
 Digitales2Go is a Demo-Application that was designed and developed as a student project at Fraunhofer IAO, University Stuttgart.
-A group of 7 students, worked for a semester on this project, where I designed and developed most of the SpingBoot backend.
+The Application is for informing users about and allowing them to rate new Technologies and Business models.
+A group of 7 students, worked for a semester in 2022 on this project, where I designed and developed most of the SpingBoot backend.
 
 # Project Inititialization
 
 ## Backend 
 
 > This is the DigiTales2Go project for the Backend with Spring boot
-
-### IDE
-
-- IntelliJ
 
 ### Prerequisites
 - Install a JDK in at least version 17.
@@ -34,10 +31,6 @@ A group of 7 students, worked for a semester on this project, where I designed a
 - Application properties: https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html
 
 ## Frontend
-
-### IDE / Editor
-
-- Visual Studio Code
 
 ### Prerequisites
 
