@@ -6,9 +6,9 @@ The Application is for informing users about and allowing them to rate new artic
 A group of 7 students worked for a semester in 2022 on this project, where I designed and developed most of the SpingBoot backend.
 
 ### Improvements
-The code in this repository is the from the end of the student project.
+The code in this repository is from the end of the student project.
 I kept on working on the project as part of a student Job (Hilfswissenschaftler), where additional features were added.
-The result of that work cannot be disclosed though.
+The sourcecode of that work cannot be disclosed though.
 
 ## Licence:
 The Project has a custom licence agreement between Fraunhofer and the Authors.
@@ -41,7 +41,7 @@ For further questions, please contact markus-walter-steinbach@web.de
 
 ### Usage 
 
-- use ./gradlew bootRun in bash to run the code locally
+- use `./gradlew bootRun` in bash to run the code locally
 - you can then inspect the API via Swagger at localhost:8080/api/v2/swagger-ui/#/
 
 ## Frontend
