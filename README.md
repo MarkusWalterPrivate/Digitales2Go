@@ -1,24 +1,24 @@
 # Digitales2Go
 
 ### About
-Digitales2Go is a Demo-Application that was designed and developed as a student project at Fraunhofer IAO, University Stuttgart.
-The Application is for informing users about and allowing them to rate new articels about technologies, companies, trends and projects.
-A group of 7 students worked for a semester in 2022 on this project, where I designed and developed most of the SpingBoot backend.
+Digitales2Go is a Demo-Application that was designed and developed as a student project at Fraunhofer IAO, University of Stuttgart.
+The Application is for informing users about and allowing them to rate new articles about technologies, companies, trends and projects.
+A group of 7 students worked for a semester in 2022 on this project, where I designed and developed most of the Sping Boot backend.
 
 ### Improvements
 The code in this repository is from the end of the student project.
 I kept on working on the project as part of a student Job (Hilfswissenschaftler), where additional features were added.
-The sourcecode of that work cannot be disclosed though.
+The source code of that work cannot be disclosed.
 
 ## Licence:
-The Project has a custom licence agreement between Fraunhofer and the Authors.
+The Project has a custom license agreement between Fraunhofer and the Authors.
 For further questions, please contact markus-walter-steinbach@web.de
 
 
 ### Basic Architecture & Functions
-- The Flutter Frontend gets data from the SpringBoot Backend which utalizes MariaDB for data persitancy
-- Security is implemented with SpringSecurity
-  - Bearer Tokens are recieved from the frontend 
+- The Flutter Frontend gets data from the Spring Boot Backend which utilizes MariaDB for data persistency
+- Security is implemented with Spring Security
+  - Bearer Tokens are received from the frontend 
   - JWT tokens are used for authentication
   - Authorization with 4 different roles:
     - Admin: can do everything
@@ -34,8 +34,8 @@ For further questions, please contact markus-walter-steinbach@web.de
   - User add an Industry field upon creation, which is used to determine the interest.
   - Three typed of feeds:
      - New: All new Articles, regardless of Industry or if the article has been rated before
-     - Hot: Most liked Artikles, reagardsless of Industry or if the article has been rated before
-     - For You: Exludes already rated Articles. Arcticels from the User-Industry are displayed first, then related industry field and lastly all other industries, each time with newest first
+     - Hot: Most liked Articles, regardless of Industry or if the article has been rated before
+     - For You: Excludes already rated Articles.  Articles from the User-Industry are displayed first, then related industry field and lastly all other industries, each time with newest first
 - Users can Rate Articles:
   - Interesting (Like): Increases the score of an article by 1
   - Not relevant (Dislike): Decreases the score by 1
@@ -45,14 +45,14 @@ For further questions, please contact markus-walter-steinbach@web.de
   - Bookmarks are saved and can be deleted    
 
 
-# Project Inititialization
+# Project Initialization
 ## Backend 
 
 ### Prerequisites
 - Install a JDK in at least version 17.
 - Make sure that `JAVA_HOME` is set correctly to the root directory of your JDK. You can check with this command: `echo %JAVA_HOME%` (or `echo $JAVA_HOME` on Linux / Git Bash)
 - Make sure that the JDK `bin` folder is added to your `PATH`.
-- Install MariaDB with defauklt user 'root' and password 'root' and make sure Port 3306 is not occupied
+- Install MariaDB with default user 'root' and password 'root' and make sure Port 3306 is not occupied
 
 ### Usage 
 
